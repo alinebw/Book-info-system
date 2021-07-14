@@ -1,10 +1,6 @@
 const livros = require('./database')
 console.log(livros )
 
-// pegar o input
-//Se for sim, mostra as categorias disponíveis, pergunta qual categoria escolhe
-//Se não, mostra todos os livros em ordem crescente pelo nome do autor
-
 const readline = require('readline-sync')
 
 const entradaInicial = readline.question('Deseja buscar um livro?S/N')
