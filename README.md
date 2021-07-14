@@ -26,5 +26,6 @@ Step 6: create file app.js and develop the logic for the following behaviour:
   - it should be possible to search by category;
   - if no category is selected, should display all registered books sorted in ascending order by number of pages
   - 
-Step 7: Rodar projeto npm start
+Step 7: npm start
+
 **`E partiu codar!`**
