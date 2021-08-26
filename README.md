@@ -10,7 +10,7 @@ Step 3: create script de start
 
 Step 4: create .gitignore
 
-Step 5: create a file databa with an array of books. Do not forget to export. Make sure it has the following info:
+Step 5: create a file database with an array of books. Do not forget to export. Make sure it has the following info:
 
 ```
 nome: string
@@ -25,7 +25,7 @@ Step 6: create file app.js and develop the logic for the following behaviour:
 
   - it should be possible to search by category;
   - if no category is selected, should display all registered books sorted in ascending order by number of pages
-  - 
+
 Step 7: npm start
 
 **`E partiu codar!`**
